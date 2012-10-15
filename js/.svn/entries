@@ -1,0 +1,79 @@
+8
+
+dir
+2692
+http://mara@trac.fooldns.com/svn/fooldns/ODB_newsite_mara/html/js
+http://mara@trac.fooldns.com/svn/fooldns
+
+
+
+2010-02-24T11:10:39.271304Z
+2688
+stefo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+08680234-1ada-495b-86d4-5e98aa5d62d9
+
+main.js
+file
+
+
+
+
+2010-02-24T17:27:50.000000Z
+2ffd261b54f7776062f3e93e9dd74ae7
+2010-02-24T11:10:39.271304Z
+2688
+stefo
+
+Rockwell_400.font.js
+file
+
+
+
+
+2010-02-17T14:27:44.000000Z
+d137051eb6321a85cbb0a8503bb37427
+2010-02-22T15:06:41.626888Z
+2656
+mara
+
+cufon.js
+file
+
+
+
+
+2010-02-17T13:09:59.000000Z
+461958e1e515e8e0f372e73b4c819d53
+2010-02-22T15:06:41.626888Z
+2656
+mara
+
+fancybox
+dir
+
+jquery.js
+file
+
+
+
+
+2010-02-17T13:09:59.000000Z
+9eb33df93b21325142088527103882d2
+2010-02-22T15:06:41.626888Z
+2656
+mara
+

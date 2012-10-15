@@ -1,0 +1,61 @@
+Cufon.replace('.menulink', { fontFamily: 'Rockwell' });
+Cufon.replace('.menuclick', { fontFamily: 'Rockwell' });
+Cufon.replace('h1', { fontFamily: 'Rockwell', textShadow: '#000000 1px 1px 1px'  });
+Cufon.replace('h2', { fontFamily: 'Rockwell', textShadow: '#000000 1px 1px 1px'  });
+Cufon.replace('h3', { fontFamily: 'Rockwell' });
+Cufon.replace('h4', { fontFamily: 'Rockwell', textShadow: '#000000 1px 1px 1px'  });
+Cufon.replace('h5', { fontFamily: 'Rockwell', textShadow: '#000000 1px 1px 1px'  });
+
+$(document).ready(function() {
+
+
+	 
+	 $(".page_1 img").click(function(){
+     	$(".page_1").animate({ 
+        marginTop: "-295px"
+      }, 500 );
+
+    });
+    
+    
+     $(".page_2 img").click(function(){
+     	$(".page_1").animate({ 
+        marginTop: "-590px"
+      }, 500 );
+    });
+    
+    $(".page_3 img").click(function(){
+     	$(".page_1").animate({ 
+        marginTop: "-885px"
+      }, 500 );      
+
+    });
+
+
+	 $(".page_4 img").click(function(){
+	     	$(".page_1").animate({ 
+	        marginTop: "-1175px"
+	      }, 500 );      
+	
+	    });
+	    
+	 $(".page_5 img").click(function(){
+	       	$(".page_1").animate({ 
+	          marginTop: "-1470px"
+	        }, 500 );      
+	  
+	    });
+	    
+	 $(".page_6 img").click(function(){
+	       	$(".page_1").animate({ 
+	          marginTop: "0px"
+	        }, 500 );      
+	  
+	    });
+	    
+    
+    $(".popup").fancybox({ 'zoomSpeedIn': 300, 'zoomSpeedOut': 300, 'padding': 30});
+    $(".popup_text").fancybox({'autoDimensions': false, 'height': 150, 'width': 540, 'padding': 30}); 
+
+    
+});
