@@ -162,12 +162,13 @@ p.logo {
 	text-decoration: underline;
 }
 
-.box-home h2, .box-home-right h2 { 
+.box-home h2, .box-home-right h2, .box-home h2 a, .box-home-right h2 a { 
 	font-size: 30px;
 	line-height: 25px;
 	text-align: left;
 	text-transform: uppercase;
 	margin-bottom: 10px;
+	color: #2f313d;
 }
 
 .box-home p .blu, .box-home-right p .blu { 
