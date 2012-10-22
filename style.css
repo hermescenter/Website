@@ -533,6 +533,18 @@ img.logo-proj {
 	text-align: center;
 }
 
+.box-partners { 
+	width: 165px;
+	float: left;
+	margin: 10px 8px;	
+	text-align: center;
+}
+
+.box-partners img { 
+	height: 70px;
+	text-align: center;
+}
+
 .bott { 
 	text-align: center;
 	width: 89px;
