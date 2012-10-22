@@ -203,6 +203,15 @@ p.logo {
 	color: #3d8ec4;
 }
 
+#content h2 { 
+	font-size: 20px;
+	line-height: 17px;
+	text-align: left;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	color: #3d8ec4;
+}
+
 #content p { 
 	font-size: 13px;
 	line-height: 21px;
@@ -1021,6 +1030,17 @@ img.logo-proj {
 .cit {
 	height: 48px;
 	overflow: hidden;
+}
+
+.donation-box {
+	float: left;
+    margin: 20px 10px;
+    text-align: center;
+    width: 343px;
+}
+
+#content .donation-box h2 {
+    text-align: center;
 }
 
 
